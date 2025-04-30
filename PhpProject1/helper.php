@@ -3,7 +3,7 @@
 define('DB_HOST', 'labdb.cle2sgso8sju.us-east-1.rds.amazonaws.com');
 define('DB_USER', 'main');
 define('DB_PASS', 'jarvaslaujingqian');
-define('DB_NAME', 'cloud');
+define('DB_NAME', 'labs');
 
 $conn = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
 
