@@ -1,7 +1,7 @@
 <?php
 
 define('DB_HOST', 'lab-db.cle2sgso8sju.us-east-1.rds.amazonaws.com');
-define('DB_USER', 'jarvas');
+define('DB_USER', 'main');
 define('DB_PASS', 'jarvaslaujingqian');
 define('DB_NAME', 'labdb');
 
