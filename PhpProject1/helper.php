@@ -1,9 +1,9 @@
 <?php
 
 define('DB_HOST', 'lab-db.cle2sgso8sju.us-east-1.rds.amazonaws.com');
-define('DB_USER', 'main');
+define('DB_USER', 'jarvas');
 define('DB_PASS', 'jarvaslaujingqian');
-define('DB_NAME', 'lab-db');
+define('DB_NAME', 'labdb');
 
 $conn = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
 
